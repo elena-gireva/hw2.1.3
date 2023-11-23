@@ -11,4 +11,4 @@ let text_average_score = "Средний балл за первые три мо�
 let surname = "Gireva";
 let ferstame = "Elena";
 
-console.log(text_average_score + " у студента " + ferstame +  " " + surname);
+console.log(text_average_score + " у студента " + ferstame.slice(0,1)+  "." + surname);
