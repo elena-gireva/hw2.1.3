@@ -13,7 +13,8 @@ console.log (value1);
 console.log (value2);
 console.log (value1 + value2 / 5 + 17);
 
-
+//сначала берется то, что в скобках, 
+//затем Math.floor и присваивается в переменную value2
 
 
 
